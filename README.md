@@ -10,7 +10,7 @@ Sou encantada pelas facilidades que a tecnologia pode trazer para o nosso dia a 
  <br/> :purple_heart: &nbsp; Buscando me atualizar sobre desenvolvimento web sempre que possível
  <br/> :blush: &nbsp; Posso te ajudar com uma visão de usuário para os seus sistemas
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, exercícios ao ar livre, yoga, series de suspense
- <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](http://www.ung.br/sites/ung.br/files/fields/imagemLateral/noticias/2017/02/linkedin_logo_initials.png](https://www.linkedin.com/in/tgmarinho/) 
+ <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](http://www.ung.br/sites/ung.br/files/fields/imagemLateral/noticias/2017/02/linkedin_logo_initials.png?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tayn%C3%A1-arruda-c%C3%A2mara-da-silva-360563178/](https://www.linkedin.com/in/tayn%C3%A1-arruda-c%C3%A2mara-da-silva-360563178/) 
 | 
 [![Gmail Badge](https://image.flaticon.com/icons/svg/281/281769.svgstyle=flat-square&logo=Gmail&logoColor=white&link=mailto:arrudatayna@gmail.com))](mailto:arrudatayna@gmail.com)
 
