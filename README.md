@@ -10,8 +10,8 @@ Sou encantada pelas facilidades que a tecnologia pode trazer para o nosso dia a 
  <br/> :purple_heart: &nbsp; Buscando me atualizar sobre desenvolvimento web sempre que possível
  <br/> :blush: &nbsp; Posso te ajudar com uma visão de usuário para os seus sistemas
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, exercícios ao ar livre, yoga, series de suspense
- <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-ThiagoMarinho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tayn%C3%A1-arruda-c%C3%A2mara-da-silva-360563178/)](https://www.linkedin.com/in/tayn%C3%A1-arruda-c%C3%A2mara-da-silva-360563178/) 
+ <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-Tayná Arruda-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tayn%C3%A1-arruda-c%C3%A2mara-da-silva-360563178/)](https://www.linkedin.com/in/tayn%C3%A1-arruda-c%C3%A2mara-da-silva-360563178/) 
 | 
-[![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arrudatayna@gmail.com)](mailto:arrudatayna@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-arrudatayna@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arrudatayna@gmail.com)](mailto:arrudatayna@gmail.com)
 
 
